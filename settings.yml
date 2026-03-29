@@ -1,2 +1,7 @@
-example_setting:
-  default: true
+visitor_signin_button_text:
+  default: "Sign In"
+  type: string
+
+visitor_signin_button_url:
+  default: "/login"
+  type: string

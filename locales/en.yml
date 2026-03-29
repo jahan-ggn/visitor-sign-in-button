@@ -1,5 +1,6 @@
 en:
   theme_metadata:
-    description: ''
+    description: Adds a customizable Sign In button next to the signup button for logged-out users in the visitor panel.
     settings:
-      example_setting: A description of a setting.
+      visitor_signin_button_url: Text displayed on the button
+      visitor_signin_button_text: URL where the button should redirect

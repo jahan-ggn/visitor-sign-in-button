@@ -1,9 +1,9 @@
 {
-  "name": "visitor_sign_in_button",
+  "name": "Visitor Sign In Button",
   "component": true,
   "authors": "Jahan Gagan",
-  "about_url": "TODO: Put your theme's public repo or Meta topic URL here",
-  "license_url": "TODO: Put your theme's LICENSE URL here",
+  "about_url": "https://github.com/jahan-ggn/visitor_sign_in_button",
+  "license_url": "https://github.com/discourse/discourse-gated-topics-in-category/blob/main/LICENSE",
   "learn_more": "TODO",
   "theme_version": "0.0.1",
   "minimum_discourse_version": null,
